@@ -21,5 +21,5 @@
   <div> 
   <a href="https://www.instagram.com/mariaheeren_/profilecard/?igsh=ZmFpaXV0cTYwa20z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mariacarolinaheeeren@gmail.com" title="Gmail"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
- 
+
+ ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
